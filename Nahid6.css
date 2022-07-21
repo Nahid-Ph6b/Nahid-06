@@ -1,0 +1,54 @@
+body{font-family: 'Poppins', sans-serif;
+margin:2%;}
+
+/* .header-part */
+
+.top-banner{display: flex;
+background-color: gainsboro;
+padding:40px ;
+border-radius: 20px;
+justify-content:space-between ;
+align-items:center ;}
+h1{font-size: 35px;
+color:rgb(205, 73, 50);}
+
+.button{display: block;
+font-weight: 900px;
+font-size: 25px;
+background-color: yellow;
+border-radius: 5px;
+padding:10px 20px ;
+position: relative;}
+
+/* *middle-part */
+
+.section.Middle-part .match-infor{display: flex;
+margin-top:100px ;
+margin-bottom: 100px;
+justify-content:space-between ;
+box-sizing: border-box;}
+
+button{display:grid ;
+padding-top:10px ;
+padding-bottom:10px ;
+margin-top:20px ;
+box-sizing:border-box;
+text-align: center;
+align-items: center;
+background-color: rgb(255, 247, 0);
+border-bottom-color: rgb(152, 123, 10) ;
+font-weight:700px ;
+font-size: 14px;
+border:2px solid yellowgreen ;}
+
+.menu{border:5px;
+    width: 115px;
+background-color:gray;
+border-left:10px ;
+border-right:10px ;
+align-items: center;
+text-align: center;
+padding:10px 15px ;
+border-top:15px;
+margin-top:25px ;}
+
