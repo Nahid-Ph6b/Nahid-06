@@ -65,3 +65,13 @@ grid-template-rows:repeat(3,1fr) ;
 justify-content: space-between;
 grid-row-gap:5px; 
 grid-column-gap: 10px;}
+
+
+.foot{text-align:center ;
+background-color: black;
+}
+.service{display:flex ;
+text-align:center ;
+padding-left: 20px 40px;
+margin-left:35%;
+column-gap:5px ;}
