@@ -43,17 +43,16 @@ font-weight:700px ;
 font-size: 14px;
 border:2px solid yellowgreen ;}
 
-.menu{border:5px;
-    width: 115px;
-background-color:gray;
+.menu{border:15px;
+    width: 100px;
 border-left:10px ;
 border-right:10px ;
 align-items: center;
 text-align: center;
 padding:10px 15px ;
-border-top:15px;
-margin-top:25px ;
-margin: left 15px; ;}
+border-top:10px;
+margin-top:10px ;
+margin-left: 15px; }
 
 /* *Main-content */
 
